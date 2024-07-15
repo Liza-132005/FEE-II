@@ -1,0 +1,34 @@
+/* Universal Selectors */
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    
+}
+/* Id Selectors */
+#fruits{
+    border: 2px dotted green;
+    color: red;
+}
+/* Class Selectors */
+.a1{
+    color: green;
+    text-decoration: line-through;
+    font-weight: 800;
+}
+/* Attribute Selectors */
+input[type="text"]{
+    background-color: rgb(247, 171, 171);
+    
+}
+/* ::placeholder{
+    color: rgb(32, 3, 3);
+} */
+[placeholder="Email"]{
+    background-color: aqua;
+}
+[type="password"]{
+    background-color: blue;
+}
+p{
+    color: blueviolet;
+}
