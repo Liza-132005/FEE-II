@@ -1,0 +1,15 @@
+/* .preview-header-logo a{
+    background: url(https://public-assets.envato-static.com/assets/logos/envato_market-dde916a48af7413e54aa058fe7ae6856752fca799da4bec355f00aea904bfa19.svg);
+   background-size: 152px 18px;```
+   /* background: rgb(0, 0, 0); Fallback color 
+  background: rgba(0, 0, 0, 0.5);
+  
+}
+.preview-header{
+    background: black;
+} */
+ .header-section{
+    background: url(https://htmldemo.net/pickdom/assets/img/hero-bg.jpg);
+    min-height: 1000px;
+    width: 1000px;
+ }

@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.btn .btn-primary {
+    width: 100%;
+}
